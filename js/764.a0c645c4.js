@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_demo"]=self["webpackChunkvue_demo"]||[]).push([[764],{3764:function(e,t,u){u.r(t),u.d(t,{default:function(){return s}});var n=function(){var e=this,t=e.$createElement,u=e._self._c||t;return u("div",[e._v(" layout "),u("router-view")],1)},o=[],r={name:"layout",props:{},data(){return{}},components:{},methods:{},mounted(){},computed:{},watch:{}},a=r,c=u(5471),l=(0,c.Z)(a,n,o,!1,null,"a728c960",null),s=l.exports}}]);
+//# sourceMappingURL=764.a0c645c4.js.map
