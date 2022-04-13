@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkautopage"]=self["webpackChunkautopage"]||[]).push([[116],{116:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("login")])},o=[],a={name:"login",props:{},data:function(){return{}},components:{},methods:{},mounted:function(){},computed:{},watch:{}},c=a,r=t(5471),l=(0,r.Z)(c,u,o,!1,null,"5e4b75f2",null),s=l.exports}}]);
+//# sourceMappingURL=116-legacy.aa69f07b.js.map
